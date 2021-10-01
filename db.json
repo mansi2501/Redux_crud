@@ -1,5 +1,5 @@
 {
-    "user": [
+  "user": [
     {
       "id": 1,
       "name": "Leanne Graham",
@@ -89,6 +89,15 @@
       "city": "Lebsackbury",
       "phone": "024-648-3804",
       "website": "ambrose.net"
+    },
+    {
+      "name": "Mansi Trivedi",
+      "username": "Mansi",
+      "email": "mansi@test.com",
+      "city": "Rajkot",
+      "phone": "9898989898",
+      "website": "abc.com",
+      "id": 11
     }
   ]
 }
